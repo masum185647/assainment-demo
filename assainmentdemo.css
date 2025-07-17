@@ -110,3 +110,41 @@ margin-top: 130px;
 .item{
     font-weight: bold;
 }
+.skills{
+    text-align: center;
+}
+/* skills */
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skills-description{
+    padding: 10px;
+}
+.skill{
+    box-shadow:0px 6px 50px 0px #000000 ;
+}
+/* resume section styles */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.experience-description{
+    color: #757575;
+}
+.btn-center{
+    text-align: center;
+}
+/* footer style */
+footer{
+    display: flex;
+    padding-left: 130px 230px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+input{
+    
+    border: 10px blue;
+}
